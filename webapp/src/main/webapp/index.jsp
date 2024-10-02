@@ -33,5 +33,6 @@
 
    <h1> Thank You, Happy Learning </h1>
    <h1> Created on Oct 2  </h1>
+   <h1> added a new line after deleting the kubectl and eksctl delete commands </h1>
   
 </form>
